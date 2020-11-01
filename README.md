@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋🏻 I'm Javier Parada</h1>
 <h3 align="center">A passionate Full-Stack developer from Spain 🇪🇸</h3>
 
+- 🎓 I am a graduated in **Software Engineering**
+
 - 🌱 I’m currently learning **Kubernetes and DDD**
 
 - 💬 We can speak in **English, Spanish or Japanese**
