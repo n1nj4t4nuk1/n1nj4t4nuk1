@@ -6,7 +6,7 @@ I currently live in Malaga, Spain. 🏝
 
 _I'm working on:_
 
-* A template for accelerating DDD and infrastructure-independent API development in Python. Repo link is: [Python DDD Skeleton](https://github.com/jparadadev/python-ddd-skeleton).
+* [Python Template](https://github.com/jparadadev/python-ddd-skeleton) for accelerating DDD and infrastructure-independent API development.
 * Cybersecurity Master's degree for which I cannot currently advance in my projects.
 
 _I'm interested in:_
