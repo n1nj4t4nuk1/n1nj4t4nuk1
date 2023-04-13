@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer** from Spain. 🇪🇸
 
-I currently live in Malaga, Spain. 🏝
+Currently living in Malaga, Spain. 🏝
 
 _I'm working on:_
 
