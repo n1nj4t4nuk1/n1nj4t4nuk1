@@ -11,5 +11,5 @@ _I'm working on:_
 
 _I'm interested in:_
 
-* Clean architectures and Software engineering.
+* Software engineering and distributed applications.
 * Cybersecurity and defense software based on traceability and detection.
