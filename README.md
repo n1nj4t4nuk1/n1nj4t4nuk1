@@ -1,6 +1,6 @@
 ### Welcome to my Github! I'm Javi 👋🏻
 
-I'm a **Software Engineer** and **Security researcher** from Spain. 🇪🇸
+I'm a **Software Engineer** and **Security Researcher** from Spain. 🇪🇸
 
 Currently living in Malaga, Spain. 🏝
 
