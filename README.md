@@ -7,9 +7,9 @@ Currently living in Malaga, Spain. 🏝
 _I'm working on:_
 
 * [Python Template](https://github.com/jparadadev/python-ddd-skeleton) for accelerating DDD and infrastructure-independent API development.
-* Cybersecurity Master's degree for which I cannot currently advance in my projects.
+* Cybersecurity Master's degree for which I cannot currently advance in my personal projects.
 
 _I'm interested in:_
 
-* Software engineering and distributed applications.
+* Software engineering, architecture and distributed applications.
 * Cybersecurity and defense software based on traceability and detection.
