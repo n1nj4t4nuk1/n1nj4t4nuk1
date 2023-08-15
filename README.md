@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer** and **Cybersecurity Researcher** from Spain. 🇪🇸
 
-Currently living in Malaga, Spain. 🏝
+Currently living in Tokyo, Japan. 🇯🇵
 
 _I'm working on:_
 
