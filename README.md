@@ -7,7 +7,6 @@ Currently living in Tokyo, Japan. 🗼
 _I'm working on:_
 
 * [Python DDD Template](https://github.com/jparadadev/python-ddd-skeleton) for accelerating DDD and infrastructure-independent API development.
-* Cybersecurity Master's degree for which I cannot currently advance in my personal projects.
 
 _I'm interested in:_
 
