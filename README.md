@@ -18,3 +18,7 @@ _I'm interested in:_
 - [Python DDD Skeleton](https://github.com/jparadadev/python-ddd-skeleton) 🐍
 - [Python Value Objects](https://github.com/jparadadev/python-value-objects) 🐍
 - [Deepfinder](https://github.com/jparadadev/deepfinder) 🐍
+
+### Publications 📑
+
+- [Emergency Control and Prevention Platform](https://riuma.uma.es/xmlui/handle/10630/20414) 🇪🇸
