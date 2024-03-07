@@ -15,6 +15,6 @@ _I'm interested in:_
 
 ### Open source 💻
 
-- [Python DDD Skeleton](https://github.com/jparadadev/python-ddd-skeleton) 
-- [Python Value Objects](https://github.com/jparadadev/python-value-objects) 
-- [Deepfinder](https://github.com/jparadadev/deepfinder) 
+- [Python DDD Skeleton](https://github.com/jparadadev/python-ddd-skeleton) 🐍
+- [Python Value Objects](https://github.com/jparadadev/python-value-objects) 🐍
+- [Deepfinder](https://github.com/jparadadev/deepfinder) 🐍
