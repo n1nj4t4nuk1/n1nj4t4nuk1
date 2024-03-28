@@ -17,6 +17,7 @@ _I'm interested in:_
 - [Python Value Objects](https://github.com/jparadadev/python-value-objects) 🐍
 - [Deepfinder](https://github.com/jparadadev/deepfinder) 🐍
 - [GitBK](https://github.com/jparadadev/gitbk) 💽
+- [Nutria](https://github.com/jparadadev/nutria) 🦦
 
 ### Publications 📑
 
