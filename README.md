@@ -4,7 +4,7 @@ I'm a **Software Engineer** and **Cybersecurity Researcher** from Spain 🇪🇸
 
 _I'm working on:_
 
-* [Python DDD Template](https://github.com/jparadadev/python-ddd-skeleton) for accelerating DDD and infrastructure-independent API development.
+* Learning Rust to make cool stuff ⚙️
 
 _I'm interested in:_
 
