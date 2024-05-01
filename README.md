@@ -9,7 +9,8 @@ _I'm working on:_
 _I'm interested in:_
 
 * Software engineering, architecture and distributed applications.
-* Cybersecurity and defense software based on traceability and detection.
+* Cybersecurity and privacy.
+* Defense software based on traceability and detection.
 
 ### Open source 💻
 
