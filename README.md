@@ -1,6 +1,6 @@
 ### Welcome to my Github! I'm Javi 👋🏻
 
-I'm a **Software Engineer** and **Cybersecurity Researcher** from Spain 🇪🇸 currently living in Tokyo, Japan. 🗼
+I'm a **Software Engineer** and **Predoctoral Cybersecurity Researcher** from Spain 🇪🇸 currently living in Tokyo, Japan. 🗼
 
 _I'm working on:_
 
