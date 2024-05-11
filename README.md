@@ -4,7 +4,7 @@ I'm a **Software Engineer** and **Predoctoral Cybersecurity Researcher** from Sp
 
 _I'm working on:_
 
-* Learning Rust to make cool stuff ⚙️
+* Learning Rust to make cool stuff 🦀
 
 _I'm interested in:_
 
