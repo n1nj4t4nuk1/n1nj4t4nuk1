@@ -14,7 +14,7 @@ _I'm interested in:_
 
 ### Open source 💻
 
-- [Kagami](https://github.com/jparadadev/kagami) 🐙
-- [Python DDD Skeleton](https://github.com/jparadadev/python-ddd-skeleton) 🐍
-- [Python Value Objects](https://github.com/jparadadev/python-value-objects) 🐍
-- [Deepfinder](https://github.com/jparadadev/deepfinder) 🐍
+- [Kagami](https://github.com/javierparadadev/kagami) 🐙
+- [Python DDD Skeleton](https://github.com/javierparadadev/python-ddd-skeleton) 🐍
+- [Python Value Objects](https://github.com/javierparadadev/python-value-objects) 🐍
+- [Deepfinder](https://github.com/javierparadadev/deepfinder) 🐍
