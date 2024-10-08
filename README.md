@@ -4,8 +4,8 @@ I'm a **Software Engineer** and **Predoctoral Cybersecurity Researcher** from Sp
 
 _I'm working on:_
 
-* Doing Threat Hunting and Cyber Intelligence stuff.
-* Resources and stuff to learn Japanese.
+* Doing Threat Hunting and Cyber Intelligence stuff at [TanukiBox](https://github.com/tanukibox).
+* Resources and stuff to learn Japanese at [TanuKanji](https://github.com/tanukanji).
 
 _I'm interested in:_
 
