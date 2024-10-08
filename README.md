@@ -5,6 +5,7 @@ I'm a **Software Engineer** and **Predoctoral Cybersecurity Researcher** from Sp
 _I'm working on:_
 
 * Doing Threat Hunting and Cyber Intelligence stuff.
+* Resources and stuff to learn Japanese.
 
 _I'm interested in:_
 
