@@ -5,7 +5,7 @@ I'm a **Software Engineer** and **Cybersecurity Researcher** from Spain 🇪🇸
 _I'm working on:_
 
 * Doing Threat Hunting and Privacy stuff at [TanukiBox](https://github.com/tanukibox)
-* Resources and stuff to learn Japanese at [TanuKanji](https://github.com/tanukanji)
+* Resources and stuff to learn Japanese at [TanuExpress](https://github.com/tanukiexpress)
 
 _I'm interested in:_
 
