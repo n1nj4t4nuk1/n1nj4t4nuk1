@@ -6,7 +6,7 @@ _I'm working on:_
 
 * My PhD thesis (my biggest time stealer).
 * Doing Threat Hunting and Privacy stuff at [TanukiBox](https://github.com/tanukibox).
-* Resources and stuff to learn Japanese at [TanuExpress](https://github.com/tanukiexpress).
+* Resources and stuff to learn Japanese at [TanukiExpress](https://github.com/tanukiexpress).
 
 _I'm interested in:_
 
