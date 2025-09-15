@@ -1,9 +1,15 @@
+<div align="center">
+
 ## Hi! I'm Javi 👋🏻
 
 I'm a **Software Engineer** and **Cybersecurity Researcher** from Spain 🇪🇸
 
+</div>
 
-### Some projects
+
+<div align="center">
+
+## Some projects
 
 </div>
 
