@@ -3,7 +3,7 @@
 I'm a **Software Engineer** and **Cybersecurity Researcher** from Spain 🇪🇸
 
 
-# some projects
+# Some projects
 
 </div>
 
