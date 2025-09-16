@@ -17,4 +17,4 @@ I'm a **Software Engineer** and **Cybersecurity Researcher** from Spain 🇪🇸
 
 * [Deepfinder](https://pypi.org/project/deepfinder/) - Search attributes easily using dot paths. Within structures of type dictionary, list and embedded substructures with simple format 'dict.users.0.name'.
 
-<div align="center">
+* [Python DDD Skeleton](https://codeberg.org/n1nj4t4nuk1/python-ddd-skeleton) - Template of a Python & FastAPI application using Domain-Driven Design and Command Query Response Segregation principles.
