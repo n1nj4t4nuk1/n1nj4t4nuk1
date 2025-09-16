@@ -9,7 +9,7 @@ I'm a **Software Engineer** and **Cybersecurity Researcher** from Spain 🇪🇸
 
 <div align="center">
 
-## Some projects
+## Some Projects
 
 </div>
 
