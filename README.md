@@ -1,17 +1,16 @@
-<div align="center">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-## Hi! I'm Javi 👋🏻
+
+### Hi! I'm Javi 👋🏻
 
 I'm a **Software Engineer** and **Cybersecurity Researcher** from Spain 🇪🇸
 
-</div>
+
 <br/>
 
-<div align="center">
 
 ## Some Projects
 
-</div>
 
 * [Tanukeys](https://codeberg.org/n1nj4t4nuk1/tanukeys) - Service for storing public keys of users for various purposes such as message signature verification, encrypting information for a specific user, storing cryptocurrency wallet addresses, and simplifying key exchanges between devices.
 
