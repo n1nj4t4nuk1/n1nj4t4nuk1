@@ -7,7 +7,7 @@ A **Software Engineer** and **Cybersecurity Researcher** from Spain 🇪🇸
 <br/>
 
 
-## Some Cool Projects
+## Some cool projects
 
 * [Tanukeys](https://github.com/n1nj4t4nuk1/tanukeys) - Service for storing public keys of users for various purposes such as message signature verification, encrypting information for a specific user, storing cryptocurrency wallet addresses, and simplifying key exchanges between devices.
 
