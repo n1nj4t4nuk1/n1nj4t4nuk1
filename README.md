@@ -17,6 +17,6 @@ A **Software Engineer** and **Cybersecurity Researcher** from Spain 🇪🇸
 
 ## Publications
 
-* [Digital Twin for Adaptive Adversary Emulation in IIoT Control Networks](doi.org/10.1007/978-3-032-07894-0_22) - The paper proposes using digital twins and reinforcement learning–based adaptive adversaries to safely test and improve the security of industrial systems. It presents a methodology combining control theory and centrality analysis to automate and validate adversarial attacks in virtualized critical environments.
+* [Digital Twin for Adaptive Adversary Emulation in IIoT Control Networks](https://doi.org/10.1007/978-3-032-07894-0_22) - The paper proposes using digital twins and reinforcement learning–based adaptive adversaries to safely test and improve the security of industrial systems. It presents a methodology combining control theory and centrality analysis to automate and validate adversarial attacks in virtualized critical environments.
 
 
