@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=n1nj4t4nuk1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-
 ### Hi! I'm Javi 👋🏻
 
 A **Software Engineer** and **Cybersecurity Researcher** from Spain 🇪🇸 Focused on Cyber Threat Intelligence and Adversary Emulation, applying techniques to simulate attacks and enhance system defenses against emerging threats.
