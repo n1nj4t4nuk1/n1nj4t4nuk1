@@ -2,7 +2,7 @@
 
 ### Hi! I'm Javi 👋🏻
 
-A **Software Engineer** and **Cybersecurity Researcher** from Spain 🇪🇸
+A **Software Engineer** and **Cybersecurity Researcher** from Spain 🇪🇸 Focused on Cyber Threat Intelligence and Adversary Emulation, applying techniques to simulate attacks and enhance system defenses against emerging threats.
 
 <br/>
 
