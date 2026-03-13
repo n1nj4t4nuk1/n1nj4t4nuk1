@@ -13,6 +13,7 @@ A **Software Engineer** and **Cybersecurity Researcher** from Spain 🇪🇸 Foc
 
 ## Publications
 
-* [Digital Twin for Adaptive Adversary Emulation in IIoT Control Networks](https://doi.org/10.1007/978-3-032-07894-0_22) - The paper proposes using digital twins and reinforcement learning–based adaptive adversaries to safely test and improve the security of industrial systems. It presents a methodology combining control theory and centrality analysis to automate and validate adversarial attacks in virtualized critical environments.
+* [Digital Twin for Adaptive Adversary Emulation in IIoT Control Networks](https://doi.org/10.1007/978-3-032-07894-0_22) - The paper proposes a framework that uses **digital twins to emulate adaptive cyber adversaries in industrial IIoT control networks**. The approach creates a virtual replica of the industrial system where automated attackers, driven by **reinforcement learning**, interact with the environment and adapt their strategies to identify and exploit critical nodes. By combining system modeling with structural analysis and adversarial learning, the framework enables the generation of **realistic and dynamic attack scenarios** without impacting real industrial infrastructure. This environment can be used to evaluate defensive mechanisms, analyze system resilience, and support proactive cybersecurity testing in critical industrial networks.
+
 
 
