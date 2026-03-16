@@ -9,6 +9,8 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 
 * [Python DDD Skeleton](https://github.com/n1nj4t4nuk1/python-ddd-skeleton) - Template of a Python & FastAPI application using Domain-Driven Design and Command Query Response Segregation principles.
 
+* [Collapse](https://github.com/n1nj4t4nuk1/collapse) - Web application that accepts file upload, stores it locally, compresses it using a configurable algorithm and compression level, exposes the job status, and allows clients download the resulting archive.
+
 ## Publications
 
 * [Digital Twin for Adaptive Adversary Emulation in IIoT Control Networks](https://doi.org/10.1007/978-3-032-07894-0_22) - The paper proposes a framework that uses **digital twins to emulate adaptive cyber adversaries in industrial IIoT control networks**. The approach creates a virtual replica of the industrial system where automated attackers, driven by **reinforcement learning**, interact with the environment and adapt their strategies to identify and exploit critical nodes. By combining system modeling with structural analysis and adversarial learning, the framework enables the generation of **realistic and dynamic attack scenarios** without impacting real industrial infrastructure. This environment can be used to evaluate defensive mechanisms, analyze system resilience, and support proactive cybersecurity testing in critical industrial networks.
