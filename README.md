@@ -11,11 +11,10 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 * 🥟 [Bun DDD Skeleton](https://github.com/n1nj4t4nuk1/bun-ddd-skeleton) - Bun template structured with DDD and CQRS principles
 * 🍃 [MongoExport](https://pypi.org/project/mongoexport/) - Incrementally export MongoDB collections
 * 🔍 [Deepfinder](https://pypi.org/project/deepfinder/) - Search attributes in nested dict/list structures using dot-path syntax
-
+* 🪞 [Kagami](https://pypi.org/project/kagami/) - GitHub Action to mirror a repository to another git system
 
 ## Legacy Projects 
 
-* 🪞 [Kagami](https://pypi.org/project/kagami/) - GitHub Action to mirror a repository to another git system
 * 💊 [Python Value Objects](https://github.com/n1nj4t4nuk1/python-value-objects) - Lightweight value objects for domain modeling in Python
 * 🆚 [DeepComparer](https://github.com/n1nj4t4nuk1/deepcomparer) - Deep comparison of nested Python data structures
 * ⚙️ [Storable Functions](https://github.com/n1nj4t4nuk1/storable-functions.js) - Store and execute JavaScript functions as reusable values
