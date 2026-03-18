@@ -17,6 +17,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 
 * 🪞 [Kagami](https://pypi.org/project/kagami/) - GitHub Action to mirror a repository to another git system
 * 💊 [Python Value Objects](https://github.com/n1nj4t4nuk1/python-value-objects) - Lightweight value objects for domain modeling in Python
+* 🆚 [DeepComparer](https://github.com/n1nj4t4nuk1/deepcomparer) - Deep comparison of nested Python data structures
 * ⚙️ [Storable Functions](https://github.com/n1nj4t4nuk1/storable-functions.js) - Store and execute JavaScript functions as reusable values
 * 🔍 [DeepfinderJS](https://github.com/n1nj4t4nuk1/deepfinder.js) - Search attributes in nested dict/list structures using dot-path syntax
 * 🦝 [TanukiKeyGuardian](https://github.com/n1nj4t4nuk1/tanuki-key-guardian) - KMS web service for secure key exchange and cryptographic isolation
