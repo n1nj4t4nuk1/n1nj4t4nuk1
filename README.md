@@ -14,6 +14,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 ## Legacy Projects 
 
 * 💊 [Python Value Objects](https://github.com/n1nj4t4nuk1/python-value-objects) - Lightweight value objects for domain modeling in Python
+* ⚙️ [storable-functions.js](https://github.com/n1nj4t4nuk1/storable-functions.js) - Store and execute JavaScript functions as reusable values
 
 
 
