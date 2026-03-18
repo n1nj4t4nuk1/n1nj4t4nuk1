@@ -11,6 +11,11 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 * 📤 [MongoExport](https://github.com/n1nj4t4nuk1/mongoexport) - Incrementally export MongoDB collections
 
 
+## Legacy Projects 
+
+* 💊 [Python Value Objects](https://github.com/n1nj4t4nuk1/python-value-objects) - Lightweight value objects for domain modeling in Python
+
+
 
 ## Publications
 
