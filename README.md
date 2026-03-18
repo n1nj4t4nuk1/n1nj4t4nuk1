@@ -15,6 +15,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 
 ## Legacy Projects 
 
+* 🔑 [Tanukeys](https://github.com/n1nj4t4nuk1/tanukeys) - Service for storing cryptographic public keys
 * 💊 [Python Value Objects](https://github.com/n1nj4t4nuk1/python-value-objects) - Lightweight value objects for domain modeling in Python
 * 🆚 [DeepComparer](https://github.com/n1nj4t4nuk1/deepcomparer) - Deep comparison of nested Python data structures
 * ⚙️ [Storable Functions](https://github.com/n1nj4t4nuk1/storable-functions.js) - Store and execute JavaScript functions as reusable values
