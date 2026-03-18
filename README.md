@@ -6,15 +6,16 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 ## Projects I'm working on
 
 * 🗜️ [Collapse](https://github.com/n1nj4t4nuk1/collapse) - Server-side file compression service
-* 🔍 [Deepfinder](https://pypi.org/project/deepfinder/) - Search attributes in nested dict/list structures using dot-path syntax
 * 🏗️ [Python DDD Skeleton](https://github.com/n1nj4t4nuk1/python-ddd-skeleton) - FastAPI template structured with DDD and CQRS principles
 * 📤 [MongoExport](https://github.com/n1nj4t4nuk1/mongoexport) - Incrementally export MongoDB collections
 
 
 ## Legacy Projects 
 
+* 🔍 [Deepfinder](https://pypi.org/project/deepfinder/) - Search attributes in nested dict/list structures using dot-path syntax
 * 💊 [Python Value Objects](https://github.com/n1nj4t4nuk1/python-value-objects) - Lightweight value objects for domain modeling in Python
 * ⚙️ [storable-functions.js](https://github.com/n1nj4t4nuk1/storable-functions.js) - Store and execute JavaScript functions as reusable values
+* 🔍 [DeepfinderJS](https://github.com/n1nj4t4nuk1/deepfinder.js) - Search attributes in nested dict/list structures using dot-path syntax
 
 
 
