@@ -1,6 +1,6 @@
 ### Hi! I'm Javi 👋🏻
 
-Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing in Cyber Threat Intelligence and adversary emulation, using offensive methodologies to simulate real-world attacks and improve defensive capabilities against evolving threats.
+Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing in Cyber Threat Intelligence and Adversary Emulation, using offensive methodologies to simulate real-world attacks and improve defensive capabilities against evolving threats.
 
 
 ## Projects I'm working on
