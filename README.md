@@ -3,13 +3,13 @@
 Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing in Cyber Threat Intelligence and adversary emulation, using offensive methodologies to simulate real-world attacks and improve defensive capabilities against evolving threats.
 
 
-## Some cool projects
+## Projects I'm working on
 
-* [Deepfinder](https://pypi.org/project/deepfinder/) - Search attributes easily using dot paths. Within structures of type dictionary, list and embedded substructures with simple format 'dict.users.0.name'.
+* 🗜️ [Collapse](https://github.com/n1nj4t4nuk1/collapse) - Server-side file compression service
+* 🔍 [Deepfinder](https://pypi.org/project/deepfinder/) - Search attributes in nested dict/list structures using dot-path syntax
+* 🏗️ [Python DDD Skeleton](https://github.com/n1nj4t4nuk1/python-ddd-skeleton) - FastAPI template structured with DDD and CQRS principles
 
-* [Python DDD Skeleton](https://github.com/n1nj4t4nuk1/python-ddd-skeleton) - Template of a Python & FastAPI application using Domain-Driven Design and Command Query Response Segregation principles.
 
-* [Collapse](https://github.com/n1nj4t4nuk1/collapse) - Web application that accepts file upload, stores it locally, compresses it using a configurable algorithm and compression level, exposes the job status, and allows clients download the resulting archive.
 
 ## Publications
 
