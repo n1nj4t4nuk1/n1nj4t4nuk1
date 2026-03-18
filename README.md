@@ -18,6 +18,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 * 💊 [Python Value Objects](https://github.com/n1nj4t4nuk1/python-value-objects) - Lightweight value objects for domain modeling in Python
 * ⚙️ [Storable Functions](https://github.com/n1nj4t4nuk1/storable-functions.js) - Store and execute JavaScript functions as reusable values
 * 🔍 [DeepfinderJS](https://github.com/n1nj4t4nuk1/deepfinder.js) - Search attributes in nested dict/list structures using dot-path syntax
+* 🇯🇵 [Kanjinary](https://github.com/n1nj4t4nuk1/kanjinary) - Kanji learning web app
 * 🀄 [Kanami](https://github.com/n1nj4t4nuk1/kanami) - Practice Japanese syllabaries, Hiragana and Katakana
 
 
