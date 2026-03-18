@@ -21,6 +21,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 * 🔍 [DeepfinderJS](https://github.com/n1nj4t4nuk1/deepfinder.js) - Search attributes in nested dict/list structures using dot-path syntax
 * 🦝 [TanukiKeyGuardian](https://github.com/n1nj4t4nuk1/tanuki-key-guardian) - KMS web service for secure key exchange and cryptographic isolation
 * 🇯🇵 [Kanjinary](https://github.com/n1nj4t4nuk1/kanjinary) - Kanji learning web app
+* 🍥 [Mikana](https://github.com/n1nj4t4nuk1/mikana) - Android app to learn Japanese syllabaries
 * 🀄 [Kanami](https://github.com/n1nj4t4nuk1/kanami) - Practice Japanese syllabaries, Hiragana and Katakana
 
 
