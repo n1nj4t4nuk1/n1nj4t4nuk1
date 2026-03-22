@@ -5,6 +5,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 
 ## Projects I'm working on
 
+* 🐠 [Datarium](https://github.com/n1nj4t4nuk1/datarium) - Common data structures for TypeScript
 * 🗜️ [Collapse](https://github.com/n1nj4t4nuk1/collapse) - Server-side file compression service
 * 🐋 [Maruja](https://github.com/n1nj4t4nuk1/maruja) - Docker container packet sniffer
 * 🐍 [Python DDD Skeleton](https://github.com/n1nj4t4nuk1/python-ddd-skeleton) - FastAPI template structured with DDD and CQRS principles
