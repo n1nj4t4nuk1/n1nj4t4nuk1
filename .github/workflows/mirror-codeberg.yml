@@ -15,4 +15,4 @@ jobs:
           MIRROR_GIT_EMAIL: javierparada@pm.me
           MIRROR_GIT_HOSTNAME: codeberg.org
           MIRROR_GIT_PROJECT: ".profile"
-          MIRROR_GIT_TOKEN: ${{ secrets.MIRROR_GIT_TOKEN }} # Your access token with write permissions
+          MIRROR_GIT_TOKEN: ${{ secrets.MIRROR_CODEBERG_TOKEN }}
