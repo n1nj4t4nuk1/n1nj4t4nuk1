@@ -5,7 +5,6 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 
 ## Projects I'm working on
 
-* 🐠 [Datarium](https://github.com/n1nj4t4nuk1/datarium) - Common data structures for TypeScript
 * 🗜️ [Collapse](https://github.com/n1nj4t4nuk1/collapse) - Server-side file compression service
 * 🦀 [Rust DDD Skeleton](https://github.com/n1nj4t4nuk1/rust-ddd-skeleton) - Rust template structured with DDD and CQRS principles
 * 🐍 [Python DDD Skeleton](https://github.com/n1nj4t4nuk1/python-ddd-skeleton) - FastAPI template structured with DDD and CQRS principles
@@ -13,6 +12,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 
 ## Projects I still maintain
 
+* 🐠 [Datarium](https://github.com/n1nj4t4nuk1/datarium) - Common data structures for TypeScript
 * 🐋 [Maruja](https://github.com/n1nj4t4nuk1/maruja) - Docker container packet sniffer
 * 🍃 [MongoExport](https://pypi.org/project/mongoexport/) - Incrementally export MongoDB collections
 * 🔍 [Deepfinder](https://pypi.org/project/deepfinder/) - Search attributes in nested dict/list structures using dot-path syntax
