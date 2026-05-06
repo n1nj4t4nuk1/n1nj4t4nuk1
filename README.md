@@ -33,6 +33,8 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 
 ## Publications
 
+* [Adaptive Adversary Emulation Applied to Critical Infrastructures and IIoT Networks (JNIC2026)](https://www.incibe.es/sites/default/files/eventos/JNIC/JNIC26-Acta-red.pdf) - A solution based on Adversary Emulation (AE) that dynamically adapts attack tactics to the targeted infrastructure, balancing faithful imitation of the emulated adversary with adaptability to the target environment. Guided by Machine Learning and industrial simulation, it enables an AI agent to train efficiently by learning from the environment and its weaknesses, supporting threat hunting and proactive defense evaluation in critical infrastructures and IIoT settings.
+
 * [Digital Twin for Adaptive Adversary Emulation in IIoT Control Networks (ESORICS2025)](https://doi.org/10.1007/978-3-032-07894-0_22) - A framework that uses Digital Twins to emulate adaptive cyber adversaries in IIoT Control Networks. It creates a virtual replica of the industrial system where automated attackers, driven by Reinforcement Learning, interact with the environment and adapt their strategies to exploit critical nodes, generating realistic and dynamic attack scenarios without impacting real infrastructure. It enables the evaluation of defensive mechanisms and supports proactive cybersecurity testing in critical industrial networks.
 
 
