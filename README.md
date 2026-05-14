@@ -9,6 +9,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 * 🦀 [Rust DDD Skeleton](https://github.com/n1nj4t4nuk1/rust-ddd-skeleton) - Rust template structured with DDD and CQRS principles
 * 🐍 [Python DDD Skeleton](https://github.com/n1nj4t4nuk1/python-ddd-skeleton) - FastAPI template structured with DDD and CQRS principles
 * 🥟 [Bun DDD Skeleton](https://github.com/n1nj4t4nuk1/bun-ddd-skeleton) - Bun template structured with DDD and CQRS principles
+* 🦊 [Fennec](https://github.com/n1nj4t4nuk1/fennec) - Rust-based Cyber Threat Intelligence platform
 
 ## Projects I still maintain
 
