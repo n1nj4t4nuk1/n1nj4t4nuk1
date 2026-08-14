@@ -10,6 +10,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 * 🐍 [Python DDD Skeleton](https://github.com/n1nj4t4nuk1/python-ddd-skeleton) - FastAPI template structured with DDD and CQRS principles
 * 🥟 [Bun DDD Skeleton](https://github.com/n1nj4t4nuk1/bun-ddd-skeleton) - Bun template structured with DDD and CQRS principles
 * 🦊 [Fennec](https://github.com/n1nj4t4nuk1/fennec) - Rust-based Cyber Threat Intelligence platform
+* 🔑 [Tanukeys](https://github.com/n1nj4t4nuk1/tanukeys) - Service for storing cryptographic public keys
 
 ## Projects I still maintain
 
@@ -21,7 +22,6 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 
 * 🐋 [Maruja](https://github.com/n1nj4t4nuk1/maruja) - Docker container packet sniffer
 * 🐠 [Datarium](https://github.com/n1nj4t4nuk1/datarium) - Common data structures for TypeScript
-* 🔑 [Tanukeys](https://github.com/n1nj4t4nuk1/tanukeys) - Service for storing cryptographic public keys
 * 💊 [Python Value Objects](https://github.com/n1nj4t4nuk1/python-value-objects) - Lightweight value objects for domain modeling in Python
 * 🆚 [DeepComparer](https://github.com/n1nj4t4nuk1/deepcomparer) - Deep comparison of nested Python data structures
 * ⚙️ [Storable Functions](https://github.com/n1nj4t4nuk1/storable-functions.js) - Store and execute JavaScript functions as reusable values
