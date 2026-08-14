@@ -5,7 +5,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 
 ## Projects I'm working on
 
-* 🗜️ [Collapse](https://github.com/n1nj4t4nuk1/collapse) - Server-side file compression service
+* 🌟 [Collapse](https://github.com/n1nj4t4nuk1/collapse) - Server-side file compression service
 * 🦀 [Rust DDD Skeleton](https://github.com/n1nj4t4nuk1/rust-ddd-skeleton) - Rust template structured with DDD and CQRS principles
 * 🐍 [Python DDD Skeleton](https://github.com/n1nj4t4nuk1/python-ddd-skeleton) - FastAPI template structured with DDD and CQRS principles
 * 🥟 [Bun DDD Skeleton](https://github.com/n1nj4t4nuk1/bun-ddd-skeleton) - Bun template structured with DDD and CQRS principles
