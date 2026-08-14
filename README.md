@@ -13,13 +13,13 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 
 ## Projects I still maintain
 
-* 🐋 [Maruja](https://github.com/n1nj4t4nuk1/maruja) - Docker container packet sniffer
 * 🍃 [MongoExport](https://pypi.org/project/mongoexport/) - Incrementally export MongoDB collections
 * 🔍 [Deepfinder](https://pypi.org/project/deepfinder/) - Search attributes in nested dict/list structures using dot-path syntax
 * 🪞 [Kagami](https://github.com/marketplace/actions/kagami-git-mirror) - GitHub Action to mirror a repository to another git system
 
 ## Legacy Projects
 
+* 🐋 [Maruja](https://github.com/n1nj4t4nuk1/maruja) - Docker container packet sniffer
 * 🐠 [Datarium](https://github.com/n1nj4t4nuk1/datarium) - Common data structures for TypeScript
 * 🔑 [Tanukeys](https://github.com/n1nj4t4nuk1/tanukeys) - Service for storing cryptographic public keys
 * 💊 [Python Value Objects](https://github.com/n1nj4t4nuk1/python-value-objects) - Lightweight value objects for domain modeling in Python
