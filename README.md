@@ -12,7 +12,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 * 🐍 [Python DDD Skeleton](https://github.com/n1nj4t4nuk1/python-ddd-skeleton) - FastAPI template structured with DDD and CQRS principles
 * 🥟 [Bun DDD Skeleton](https://github.com/n1nj4t4nuk1/bun-ddd-skeleton) - Bun template structured with DDD and CQRS principles
 
-## Projects I still maintain
+## Projects I maintain
 
 * 🍃 [MongoExport](https://pypi.org/project/mongoexport/) - Incrementally export MongoDB collections
 * 🔍 [Deepfinder](https://pypi.org/project/deepfinder/) - Search attributes in nested dict/list structures using dot-path syntax
