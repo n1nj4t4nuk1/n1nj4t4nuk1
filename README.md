@@ -8,15 +8,15 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 * 🌟 [Collapse](https://github.com/n1nj4t4nuk1/collapse) - A small, fast file compressor
 * 🔑 [Tanukeys](https://github.com/n1nj4t4nuk1/tanukeys) - Service for storing cryptographic public keys
 * 🦊 [Fennec](https://github.com/n1nj4t4nuk1/fennec) - Another Cyber Threat Intelligence platform
-* 🦀 [Rust DDD Skeleton](https://github.com/n1nj4t4nuk1/rust-ddd-skeleton) - Rust template structured with DDD and CQRS principles
-* 🐍 [Python DDD Skeleton](https://github.com/n1nj4t4nuk1/python-ddd-skeleton) - FastAPI template structured with DDD and CQRS principles
-* 🥟 [Bun DDD Skeleton](https://github.com/n1nj4t4nuk1/bun-ddd-skeleton) - Bun template structured with DDD and CQRS principles
 
 ## Projects I maintain
 
 * 🍃 [MongoExport](https://pypi.org/project/mongoexport/) - Incrementally export MongoDB collections
 * 🔍 [Deepfinder](https://pypi.org/project/deepfinder/) - Search attributes in nested dict/list structures using dot-path syntax
 * 🪞 [Kagami](https://github.com/marketplace/actions/kagami-git-mirror) - GitHub Action to mirror a repository to another git system
+* 🦀 [Rust DDD Skeleton](https://github.com/n1nj4t4nuk1/rust-ddd-skeleton) - Rust template structured with DDD and CQRS principles
+* 🐍 [Python DDD Skeleton](https://github.com/n1nj4t4nuk1/python-ddd-skeleton) - FastAPI template structured with DDD and CQRS principles
+* 🥟 [Bun DDD Skeleton](https://github.com/n1nj4t4nuk1/bun-ddd-skeleton) - Bun template structured with DDD and CQRS principles
 
 ## Legacy Projects
 
