@@ -5,31 +5,32 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 
 ## Projects I'm working on
 
-* 🌟 [Collapse](https://github.com/n1nj4t4nuk1/collapse) - A small, fast file compressor
-* 🔑 [Tanukeys](https://github.com/n1nj4t4nuk1/tanukeys) - Service for storing cryptographic public keys
-* 🦊 [Fennec](https://github.com/n1nj4t4nuk1/fennec) - Another Cyber Threat Intelligence platform
+* 🌟 [Collapse](https://github.com/otsobide/collapse) - A small, fast file compressor
+* 🧠 [Mindflayer](https://github.com/otsobide/tanukeys) - Skill management tool
+* 🔑 [Tanukeys](https://github.com/otsobide/tanukeys) - Service for storing cryptographic public keys
+* 🦊 [Fennec](https://github.com/otsobide/fennec) - Another Cyber Threat Intelligence platform
 
 ## Projects I maintain
 
 * 🍃 [MongoExport](https://pypi.org/project/mongoexport/) - Incrementally export MongoDB collections
 * 🔍 [Deepfinder](https://pypi.org/project/deepfinder/) - Search attributes in nested dict/list structures using dot-path syntax
 * 🪞 [Kagami](https://github.com/marketplace/actions/kagami-git-mirror) - GitHub Action to mirror a repository to another git system
-* 🦀 [Rust DDD Skeleton](https://github.com/n1nj4t4nuk1/rust-ddd-skeleton) - Rust template structured with DDD and CQRS principles
-* 🐍 [Python DDD Skeleton](https://github.com/n1nj4t4nuk1/python-ddd-skeleton) - FastAPI template structured with DDD and CQRS principles
-* 🥟 [Bun DDD Skeleton](https://github.com/n1nj4t4nuk1/bun-ddd-skeleton) - Bun template structured with DDD and CQRS principles
+* 🦀 [Rust DDD Skeleton](https://github.com/otsobide/rust-ddd-skeleton) - Rust template structured with DDD and CQRS principles
+* 🐍 [Python DDD Skeleton](https://github.com/otsobide/python-ddd-skeleton) - FastAPI template structured with DDD and CQRS principles
+* 🥟 [Bun DDD Skeleton](https://github.com/otsobide/bun-ddd-skeleton) - Bun template structured with DDD and CQRS principles
 
 ## Legacy Projects
 
-* 🐋 [Maruja](https://github.com/n1nj4t4nuk1/maruja) - Docker container packet sniffer
-* 🐠 [Datarium](https://github.com/n1nj4t4nuk1/datarium) - Common data structures for TypeScript
-* 💊 [Python Value Objects](https://github.com/n1nj4t4nuk1/python-value-objects) - Lightweight value objects for domain modeling in Python
-* 🆚 [DeepComparer](https://github.com/n1nj4t4nuk1/deepcomparer) - Deep comparison of nested Python data structures
-* ⚙️ [Storable Functions](https://github.com/n1nj4t4nuk1/storable-functions.js) - Store and execute JavaScript functions as reusable values
-* 🔍 [DeepfinderJS](https://github.com/n1nj4t4nuk1/deepfinder.js) - Search attributes in nested dict/list structures using dot-path syntax
-* 🦝 [TanukiKeyGuardian](https://github.com/n1nj4t4nuk1/tanuki-key-guardian) - KMS web service for secure key exchange and cryptographic isolation
-* 🇯🇵 [Kanjinary](https://github.com/n1nj4t4nuk1/kanjinary) - Kanji learning web app
-* 🍥 [Mikana](https://github.com/n1nj4t4nuk1/mikana) - Android app to learn Japanese syllabaries
-* 🀄 [Kanami](https://github.com/n1nj4t4nuk1/kanami) - Practice Japanese syllabaries, Hiragana and Katakana
+* 🐋 [Maruja](https://github.com/otsobide/maruja) - Docker container packet sniffer
+* 🐠 [Datarium](https://github.com/otsobide/datarium) - Common data structures for TypeScript
+* 💊 [Python Value Objects](https://github.com/otsobide/python-value-objects) - Lightweight value objects for domain modeling in Python
+* 🆚 [DeepComparer](https://github.com/otsobide/deepcomparer) - Deep comparison of nested Python data structures
+* ⚙️ [Storable Functions](https://github.com/otsobide/storable-functions.js) - Store and execute JavaScript functions as reusable values
+* 🔍 [DeepfinderJS](https://github.com/otsobide/deepfinder.js) - Search attributes in nested dict/list structures using dot-path syntax
+* 🦝 [TanukiKeyGuardian](https://github.com/otsobide/tanuki-key-guardian) - KMS web service for secure key exchange and cryptographic isolation
+* 🇯🇵 [Kanjinary](https://github.com/otsobide/kanjinary) - Kanji learning web app
+* 🍥 [Mikana](https://github.com/otsobide/mikana) - Android app to learn Japanese syllabaries
+* 🀄 [Kanami](https://github.com/otsobide/kanami) - Practice Japanese syllabaries, Hiragana and Katakana
 
 
 ## Publications
@@ -39,6 +40,3 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 * [Adaptive Adversary Emulation Applied to Critical Infrastructures and IIoT Networks (JNIC2026)](https://www.incibe.es/sites/default/files/eventos/JNIC/JNIC26-Acta-red.pdf) - A solution based on Adversary Emulation (AE) that dynamically adapts attack tactics to the targeted infrastructure, balancing faithful imitation of the emulated adversary with adaptability to the target environment. Guided by Machine Learning and industrial simulation, it enables an AI agent to train efficiently by learning from the environment and its weaknesses, supporting threat hunting and proactive defense evaluation in critical infrastructures and IIoT settings.
 
 * [Digital Twin for Adaptive Adversary Emulation in IIoT Control Networks (ESORICS2025)](https://doi.org/10.1007/978-3-032-07894-0_22) - A framework that uses Digital Twins to emulate adaptive cyber adversaries in IIoT Control Networks. It creates a virtual replica of the industrial system where automated attackers, driven by Reinforcement Learning, interact with the environment and adapt their strategies to exploit critical nodes, generating realistic and dynamic attack scenarios without impacting real infrastructure. It enables the evaluation of defensive mechanisms and supports proactive cybersecurity testing in critical industrial networks.
-
-
-
