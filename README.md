@@ -6,7 +6,7 @@ Software Engineer and Cybersecurity Researcher from Spain 🇪🇸 specializing 
 ## Projects I'm working on
 
 * 🌟 [Collapse](https://github.com/otsobide/collapse) - A small, fast file compressor
-* 🧠 [Mindflayer](https://github.com/otsobide/tanukeys) - Skill management tool
+* 🧠 [Mindflayer](https://github.com/otsobide/mindflayer) - Skill management tool
 * 🔑 [Tanukeys](https://github.com/otsobide/tanukeys) - Service for storing cryptographic public keys
 * 🦊 [Fennec](https://github.com/otsobide/fennec) - Another Cyber Threat Intelligence platform
 
